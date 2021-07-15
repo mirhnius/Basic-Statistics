@@ -1,2 +1,2 @@
 # Basic Statistics
-In this notebook, there is  some basic statistical problems like estimating parameters of a distribution.
+In this notebook, there are some basic statistical problems like estimating the parameters of a distribution.
